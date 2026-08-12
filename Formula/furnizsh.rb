@@ -22,7 +22,7 @@ class Furnizsh < Formula
   desc "Neon terminal in one command - Ghostty, zsh, Starship, 4 themes, 24 commands"
   homepage "https://wosmos.github.io/furnizsh"
   url "https://github.com/Wosmos/furnizsh/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "01dc64d81f93c9885824fa26fa064d683d3d7f299562f53804f6a28c95cba653"
+  sha256 "ce88633a779cce5ebc4a10b0bc7890c0f05850898591f5e1aef75104a0e22e85"
   license "MIT"
   head "https://github.com/Wosmos/furnizsh.git", branch: "main"
 
